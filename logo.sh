@@ -7,6 +7,6 @@ echo "  MM        MM   `YMMNq.   MMmmmmmmMM      MM.  M'      ,M  `MM      M  `M
 echo "  MM.      ,MP .     `MM   MM      MM      `MM A'       AbmmmqMA     M   `MM.M    MM  VMA      ";
 echo "  `Mb.    ,dP' Mb     dM   MM      MM       :MM;       A'     VML    M     YMM    MM   `MM.    ";
 echo "    `"bmmd"'   P"Ybmmd"  .JMML.  .JMML.      VF      .AMA.   .AMMA..JML.    YM  .JMML.   MMb.  ";
-echo -e "\033[0;32m"
+echo -e "\033[0;31m"
 echo "                                                                       https://oshvank.com/"
 echo -e "\e[0m"
